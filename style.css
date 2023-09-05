@@ -9,3 +9,16 @@ h1 {
 #purple{
     background-color: rebeccapurple;
 }
+.center{
+    text-align: center;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.style{
+    font-style: italic;
+    font-family: sans-serif;
+    font-weight: 600;
+}
